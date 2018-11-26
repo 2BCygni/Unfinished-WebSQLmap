@@ -26,17 +26,17 @@ The project is not finished and filled of imperfections and unpatched vulnerabil
 
 ## Thanks
 ### Front-end
-Thanks to Foxy Themes for the front-end.
-Thanks to Null for the idea and the motivation.
+Thanks to Foxy Themes for the front-end. <br/>
+Thanks to Null for the idea and the motivation. <br/>
 
 ## Todo
-[✗] - Improve the utilisation of **SESSIONS**
-[✗] - Fix display bugs 
-[✗] - Fix vulnerabilities
-[✗] - Embellish the source code
-[✗] - Finish the **dump system** (columns, datas)
-[✗] - And more that I won't do ...
-
-Do not hesitate to share your improvements.
-
-For educational purpose only.
+[✗] - Improve the utilisation of **SESSIONS** <br/>
+[✗] - Fix display bugs <br/>
+[✗] - Fix vulnerabilities <br/>
+[✗] - Embellish the source code <br/>
+[✗] - Finish the **dump system** (columns, datas) <br/>
+[✗] - And more that I won't do ... <br/>
+<br/> 
+Do not hesitate to share your improvements. <br/>
+<br/> 
+For educational purpose only. <br/>
