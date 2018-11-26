@@ -27,6 +27,8 @@ The project is not finished and filled of imperfections and unpatched vulnerabil
 ## Thanks
 ### Front-end
 Thanks to Foxy Themes for the front-end. <br/>
+
+### Idea
 Thanks to Null for the idea and the motivation. <br/>
 
 ## Todo
